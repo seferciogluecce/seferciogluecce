@@ -10,8 +10,6 @@ Currently sharing **7 Days, 7 Tools** — a series where I refine and release us
 
 ## Selected Projects
 
-## Selected Projects
-
 <table>
   <tr>
     <td width="50%" valign="top">
