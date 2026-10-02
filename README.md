@@ -60,8 +60,8 @@ For this series, I am refining, documenting, and releasing seven of these tools 
 
 | Day | Tool | Status |
 | --- | --- | --- |
-| **Day 1** | **Parent From Bounds** | Coming soon |
-| **Day 2** | **Separate Mesh Bodies** | Coming soon |
+| **Day 1** | [**Parent From Bounds**](https://github.com/seferciogluecce/parent-from-bounds) | Released |
+| **Day 2** | [**Separate Mesh Bodies**](https://github.com/seferciogluecce/separate-mesh-bodies) | Released |
 | **Day 3** | **Brick Wall Generator** | Coming soon |
 | **Day 4** | **Particle System Context Previewer** | Coming soon |
 | **Day 5** | **Object Layout Tool** | Coming soon |
