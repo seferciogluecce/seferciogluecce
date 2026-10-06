@@ -52,18 +52,18 @@ Currently sharing **7 Days, 7 Tools** — a series where I refine and release us
   </tr>
 </table>
 
-## 7 Days, 7 Tools
+## 7 Tools in 7 Days
 
 A series of development tools built during four months of solo development on **Fitness Crossing**, whenever a practical need arose during production.
 
 For this series, I am refining, documenting, and releasing seven of these tools as standalone projects.
 
-| Day | Tool | Status |
-| --- | --- | --- |
-| **Day 1** | [**Parent From Bounds**](https://github.com/seferciogluecce/parent-from-bounds) | Released |
-| **Day 2** | [**Separate Mesh Bodies**](https://github.com/seferciogluecce/separate-mesh-bodies) | Released |
-| **Day 3** | [**Brick Wall Generator**](https://github.com/seferciogluecce/brick-wall-generator) | Released |
-| **Day 4** | [**Particle System Context Previewer**](https://github.com/seferciogluecce/particle-system-context-previewer) | Released |
-| **Day 5** | [**Object Layout Tool**](https://github.com/seferciogluecce/object-layout-tool) | Released |
-| **Day 6** | [**DOTween Selection Animation Previewer**](https://github.com/seferciogluecce/dotween-selection-animation-previewer) | Released |
-| **Day 7** | **Wave Object Distributor** | Coming soon |
+| Day | Tool | Status | Devlog Article |
+| --- | --- | --- | --- |
+| **Day 1** | [**Parent From Bounds**](https://github.com/seferciogluecce/parent-from-bounds) | Released | [Article Link](https://ecesefercioglu.substack.com/p/7-tools-in-7-days-day-1-parent-from) |
+| **Day 2** | [**Separate Mesh Bodies**](https://github.com/seferciogluecce/separate-mesh-bodies) | Released | [Article Link](https://ecesefercioglu.substack.com/p/7-tools-in-7-days-day-2-separate) |
+| **Day 3** | [**Brick Wall Generator**](https://github.com/seferciogluecce/brick-wall-generator) | Released | [Article Link](https://ecesefercioglu.substack.com/p/7-tools-in-7-days-day-3-brick-wall) |
+| **Day 4** | [**Particle System Context Previewer**](https://github.com/seferciogluecce/particle-system-context-previewer) | Released | [Article Link](https://ecesefercioglu.substack.com/p/7-tools-in-7-days-day-4-particle) |
+| **Day 5** | [**Object Layout Tool**](https://github.com/seferciogluecce/object-layout-tool) | Released | [Article Link](https://ecesefercioglu.substack.com/p/7-tools-in-7-days-day-5-object-layout) |
+| **Day 6** | [**DOTween Selection Animation Previewer**](https://github.com/seferciogluecce/dotween-selection-animation-previewer) | Released | Coming soon |
+| **Day 7** | **Wave Object Distributor** | Coming soon | Coming soon |
