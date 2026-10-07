@@ -65,5 +65,5 @@ For this series, I am refining, documenting, and releasing seven of these tools 
 | **Day 3** | [**Brick Wall Generator**](https://github.com/seferciogluecce/brick-wall-generator) | Released | [Article Link](https://ecesefercioglu.substack.com/p/7-tools-in-7-days-day-3-brick-wall) |
 | **Day 4** | [**Particle System Context Previewer**](https://github.com/seferciogluecce/particle-system-context-previewer) | Released | [Article Link](https://ecesefercioglu.substack.com/p/7-tools-in-7-days-day-4-particle) |
 | **Day 5** | [**Object Layout Tool**](https://github.com/seferciogluecce/object-layout-tool) | Released | [Article Link](https://ecesefercioglu.substack.com/p/7-tools-in-7-days-day-5-object-layout) |
-| **Day 6** | [**DOTween Selection Animation Previewer**](https://github.com/seferciogluecce/dotween-selection-animation-previewer) | Released | Coming soon |
-| **Day 7** | **Wave Object Distributor** | Coming soon | Coming soon |
+| **Day 6** | [**DOTween Selection Animation Previewer**](https://github.com/seferciogluecce/dotween-selection-animation-previewer) | Released | [Article Link](https://ecesefercioglu.substack.com/p/7-tools-in-7-days-day-6-dotween-selection) |
+| **Day 7** | [**Wave Object Distributor**](https://github.com/seferciogluecce/wave-object-distributor) | Released | Coming soon |
