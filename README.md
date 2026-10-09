@@ -4,7 +4,7 @@ Game Developer & Researcher working with **Unity, C#, Python**, and **AI-assiste
 
 I enjoy building interactive systems, development tools, and experimental projects, with a focus on practical problem-solving and iterative development.
 
-Currently sharing **7 Days, 7 Tools** — a series where I refine and release useful development tools originally built within a larger Unity project.
+Recently completed **7 Tools in 7 Days**, an open-source Unity development challenge featuring seven tools originally created while developing Fitness Crossing. Each tool has its own GitHub repository and development story.
 
 [Portfolio](https://gamedev.ecenazsefer.workers.dev) · [LinkedIn](https://www.linkedin.com/in/ece-naz-sefercioğlu)
 
@@ -54,16 +54,16 @@ Currently sharing **7 Days, 7 Tools** — a series where I refine and release us
 
 ## 7 Tools in 7 Days
 
-A series of development tools built during four months of solo development on **Fitness Crossing**, whenever a practical need arose during production.
+During four months of solo development on **Fitness Crossing**, a collection of small Unity utilities emerged from practical production needs.
 
-For this series, I am refining, documenting, and releasing seven of these tools as standalone projects.
+**7 Tools in 7 Days** became a challenge to extract, refine, document, and open-source seven of these tools as standalone projects. Each release includes the tool's source code, documentation, and a devlog article sharing the development process.
 
-| Day | Tool | Status | Devlog Article |
-| --- | --- | --- | --- |
-| **Day 1** | [**Parent From Bounds**](https://github.com/seferciogluecce/parent-from-bounds) | Released | [Article Link](https://ecesefercioglu.substack.com/p/7-tools-in-7-days-day-1-parent-from) |
-| **Day 2** | [**Separate Mesh Bodies**](https://github.com/seferciogluecce/separate-mesh-bodies) | Released | [Article Link](https://ecesefercioglu.substack.com/p/7-tools-in-7-days-day-2-separate) |
-| **Day 3** | [**Brick Wall Generator**](https://github.com/seferciogluecce/brick-wall-generator) | Released | [Article Link](https://ecesefercioglu.substack.com/p/7-tools-in-7-days-day-3-brick-wall) |
-| **Day 4** | [**Particle System Context Previewer**](https://github.com/seferciogluecce/particle-system-context-previewer) | Released | [Article Link](https://ecesefercioglu.substack.com/p/7-tools-in-7-days-day-4-particle) |
-| **Day 5** | [**Object Layout Tool**](https://github.com/seferciogluecce/object-layout-tool) | Released | [Article Link](https://ecesefercioglu.substack.com/p/7-tools-in-7-days-day-5-object-layout) |
-| **Day 6** | [**DOTween Selection Animation Previewer**](https://github.com/seferciogluecce/dotween-selection-animation-previewer) | Released | [Article Link](https://ecesefercioglu.substack.com/p/7-tools-in-7-days-day-6-dotween-selection) |
-| **Day 7** | [**Wave Object Distributor**](https://github.com/seferciogluecce/wave-object-distributor) | Released | Coming soon |
+| Day | Tool | Devlog Article |
+| --- | --- | --- |
+| **Day 1** | [**Parent From Bounds**](https://github.com/seferciogluecce/parent-from-bounds) | [Article Link](https://ecesefercioglu.substack.com/p/7-tools-in-7-days-day-1-parent-from) |
+| **Day 2** | [**Separate Mesh Bodies**](https://github.com/seferciogluecce/separate-mesh-bodies) | [Article Link](https://ecesefercioglu.substack.com/p/7-tools-in-7-days-day-2-separate) |
+| **Day 3** | [**Brick Wall Generator**](https://github.com/seferciogluecce/brick-wall-generator) | [Article Link](https://ecesefercioglu.substack.com/p/7-tools-in-7-days-day-3-brick-wall) |
+| **Day 4** | [**Particle System Context Previewer**](https://github.com/seferciogluecce/particle-system-context-previewer) | [Article Link](https://ecesefercioglu.substack.com/p/7-tools-in-7-days-day-4-particle) |
+| **Day 5** | [**Object Layout Tool**](https://github.com/seferciogluecce/object-layout-tool) | [Article Link](https://ecesefercioglu.substack.com/p/7-tools-in-7-days-day-5-object-layout) |
+| **Day 6** | [**DOTween Selection Animation Previewer**](https://github.com/seferciogluecce/dotween-selection-animation-previewer) | [Article Link](https://ecesefercioglu.substack.com/p/7-tools-in-7-days-day-6-dotween-selection) |
+| **Day 7** | [**Wave Object Distributor**](https://github.com/seferciogluecce/wave-object-distributor) | [Article Link](https://ecesefercioglu.substack.com/p/7-tools-in-7-days-day-7-wave-object) |
